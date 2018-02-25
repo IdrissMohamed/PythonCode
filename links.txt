@@ -1,0 +1,7 @@
+http://www.cso.ie/StatbankServices/StatbankServices.svc/jsonservice/responseinstance/EP001
+http://www.cso.ie/StatbankServices/StatbankServices.svc/jsonservice/responseinstance/EP002
+http://www.cso.ie/StatbankServices/StatbankServices.svc/jsonservice/responseinstance/EP003
+http://www.cso.ie/StatbankServices/StatbankServices.svc/jsonservice/responseinstance/EP004
+http://www.cso.ie/StatbankServices/StatbankServices.svc/jsonservice/responseinstance/EP005
+https://api.oireachtas.ie/v1/legislation
+https://api.oireachtas.ie/v1/swagger.json
